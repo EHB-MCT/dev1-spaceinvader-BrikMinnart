@@ -36,6 +36,13 @@ function drawspaceInvader(){
  context.stroke();
  context.fill();
 
+   // rect upper right
+   context.fillStyle = "#39FF14"
+   context.beginPath();
+   context.rect(175,125,50,50);
+   context.stroke();
+   context.fill();
+
  
 
 }
