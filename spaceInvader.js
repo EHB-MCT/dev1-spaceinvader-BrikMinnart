@@ -50,6 +50,14 @@ function drawspaceInvader(){
    context.stroke();
    context.fill();
 
+   //rect 4th line
+   context.fillStyle = "#39FF14"
+   context.beginPath();
+   context.rect(75,225,250,50);
+   context.stroke();
+   context.fill();
+
+
 
  
 
